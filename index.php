@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,18 +7,8 @@
   <title>Segreti di venezia</title>
 </head>
 <body>
-  roba nuova
-  Talete
-  prova
-  ok
-
-  Massimo che ha fatto qualcosa
-
-  <hr>
-  MArio ha fatto qualcosa. sas
-  <hr>
-  sdiajkasdjklj
-  asdplp
-
+  <div class="">
+      <img src="./assets/img/cartinaVenezia.png" alt="cartina Venezia">
+  </div>
 </body>
 </html>
