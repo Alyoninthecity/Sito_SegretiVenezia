@@ -8,8 +8,8 @@
   <title>Segreti di venezia</title>
 </head>
 <body>
-  <div id="cartinaVenezia">
-      <img id="cartinaVenezia" src="./assets/img/cartinaVenezia.png" alt="cartina Venezia">
+  <div id="cartinaVenezia" class="">
+      <img id="cartinaVenezia" src="./assets/img/cartinaVeneziaM.png" alt="cartina Venezia">
   </div>
 </body>
 </html>
