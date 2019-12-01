@@ -9,7 +9,7 @@
 </head>
 <body>
   <div id="cartinaVenezia">
-      <img id="cartinaVenezia" src="./assets/img/ad.png" alt="cartina Venezia">
+      <img id="cartinaVenezia" src="./assets/img/cartinaVenezia.png" alt="cartina Venezia">
   </div>
 </body>
 </html>
