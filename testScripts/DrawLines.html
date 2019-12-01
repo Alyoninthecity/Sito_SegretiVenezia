@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+                                                                             <!-- usa la mappa come sfondo del canvas-->
 <canvas id="myCanvas" width="1000" height="500" style="background-image: url('mappa.jpg');background-position: center;background-size: 100% 100%;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 
@@ -9,7 +9,7 @@ Your browser does not support the HTML5 canvas tag.</canvas>
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 
-//movimenti
+//movimenti della linea
 ctx.beginPath();
 ctx.moveTo(0, 0);
 ctx.lineTo(500, 250);
