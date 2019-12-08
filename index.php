@@ -1,15 +1,21 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="./style.css">
-  <title>Segreti di venezia</title>
-</head>
-<body>
-  <nav>
-    
-  </nav>
-</body>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Segreti di Venezia</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="./assets/css/main.css"/>
+	</head>
+	<body>
+			<header id="header">
+				<div class="">
+					<h1>Segreti di Venezia</h1>
+					<p>Crea il tuo percorso personalizzato per Venezia</a></p>
+				</div>
+			</header>
+      <section>
+
+      </section>
+
+	</body>
 </html>
