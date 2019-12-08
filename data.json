@@ -1,0 +1,25 @@
+{
+  "posto":"Venezia Santa Lucia",
+  "opzioni": ["1":{
+                    "posto":"Venezia Santa Lucia",
+                    "opzioni": ["1":{
+                                      "posto":"Venezia Santa Lucia",
+                                      "opzioni": []
+                                },
+                              "2":{
+                                      "posto":"Venezia Santa Lucia",
+                                      "opzioni": []
+                                }]
+              },
+            "2":{
+                    "posto":"Venezia Santa Lucia",
+                    "opzioni": ["1":{
+                                      "posto":"Venezia Santa Lucia",
+                                      "opzioni": []
+                                },
+                              "2":{
+                                      "posto":"Venezia Santa Lucia",
+                                      "opzioni": []
+                                }]
+              }]
+}
