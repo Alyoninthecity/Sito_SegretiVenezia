@@ -1,425 +1,647 @@
 {
-  "posto":"Stazione Santa Lucia",
-  "opzioni": [{
-                    "posto":"Ponte della Costituzione",
-                    "opzioni": [{
-                                      "posto":"Giardini Papadopoli",
-                                      "opzioni": [{
-                                                        "posto":"Palazzo Soranzo Cappello",
-                                                        "opzioni": [{
-                                                                          "posto":"Museo di Storia Naturale di Venezia",
-                                                                          "opzioni": [{
-                                                                                  "posto":"Mercato di Rialto",
-                                                                                  "opzioni": [{
-                                                                                                    "posto":"Ponte di Rialto",
-                                                                                                    "opzioni": [{
-                                                                                                                      "posto":"Casino Venier",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Teatro La Fenice",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                "posto":"Basilica di San Marco",
-                                                                                                                                                "opzioni": [{
-                                                                                                                                                                  "posto":"Campanile di San Marco",
-                                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                                    "posto":"Palazzo Ducale",
-                                                                                                                                                                                    "opzioni": [{
-                                                                                                                                                                                                      "posto":"Ponti dei Sospiri",
-                                                                                                                                                                                                      "opzioni": []
-                                                                                                                                                                                                }]
-                                                                                                                                                                              }]
-                                                                                                                                                            }]
-                                                                                                                                          }]
-                                                                                                                                  },
-                                                                                                                                {
-                                                                                                                                        "posto":"Basilica di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Campanile di San Marco",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Palazzo Ducale",
-                                                                                                                                                                            "opzioni": [{
-                                                                                                                                                                                              "posto":"Ponti dei Sospiri",
-                                                                                                                                                                                              "opzioni": []
-                                                                                                                                                                                        }]
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  },
-                                                                                                                                {
-                                                                                                                                        "posto":"Ponti dei Sospiri",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                "posto":"Palazzo Ducale",
-                                                                                                                                                "opzioni": [{
-                                                                                                                                                                  "posto":"Campanile di San Marco",
-                                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                                    "posto":"Basilica di San Marco",
-                                                                                                                                                                                    "opzioni": [{
-                                                                                                                                                                                                      "posto":"Teatro La Fenice",
-                                                                                                                                                                                                      "opzioni": []
-                                                                                                                                                                                                }]
-                                                                                                                                                                              }]
-                                                                                                                                                            }]
-                                                                                                                                        }]
-                                                                                                                                }]
-                                                                                                                }]
-                                                                                              }]
-                                                                            }]
-                                                                    },
-                                                                  {
-                                                                          "posto":"Scuola Grande di San Rocco",
-                                                                          "opzioni": [{
-                                                                                            "posto":"Ponte di Rialto",
-                                                                                            "opzioni": [{
-                                                                                                              "posto":"Casino Venier",
-                                                                                                              "opzioni": [{
-                                                                                                                                "posto":"Teatro La Fenice",
-                                                                                                                                "opzioni": [{
-                                                                                                                                        "posto":"Basilica di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Campanile di San Marco",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Palazzo Ducale",
-                                                                                                                                                                            "opzioni": [{
-                                                                                                                                                                                              "posto":"Ponti dei Sospiri",
-                                                                                                                                                                                              "opzioni": []
-                                                                                                                                                                                        }]
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                                          },
-                                                                                                                        {
-                                                                                                                                "posto":"Basilica di San Marco",
-                                                                                                                                "opzioni": [{
-                                                                                                                                                  "posto":"Campanile di San Marco",
-                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                    "posto":"Palazzo Ducale",
-                                                                                                                                                                    "opzioni": [{
-                                                                                                                                                                                      "posto":"Ponti dei Sospiri",
-                                                                                                                                                                                      "opzioni": []
-                                                                                                                                                                                }]
-                                                                                                                                                              }]
-                                                                                                                                            }]
-                                                                                                                          },
-                                                                                                                        {
-                                                                                                                                "posto":"Ponti dei Sospiri",
-                                                                                                                                "opzioni": [{
-                                                                                                                                        "posto":"Palazzo Ducale",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Campanile di San Marco",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Basilica di San Marco",
-                                                                                                                                                                            "opzioni": [{
-                                                                                                                                                                                              "posto":"Teatro La Fenice",
-                                                                                                                                                                                              "opzioni": []
-                                                                                                                                                                                        }]
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                }]
-                                                                                                                        }]
-                                                                                                        }]
-                                                                                      }]
-                                                                    }]
-                                                  },
-                                                {
-                                                        "posto":"Scuola Grande di San Rocco",
-                                                        "opzioni": [{
-                                                                          "posto":"Ponte di Rialto",
-                                                                          "opzioni": [{
-                                                                                            "posto":"Casino Venier",
-                                                                                            "opzioni": [{
-                                                                                                              "posto":"Teatro La Fenice",
-                                                                                                              "opzioni": [{
-                                                                                                                      "posto":"Basilica di San Marco",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Campanile di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Palazzo Ducale",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Ponti dei Sospiri",
-                                                                                                                                                                            "opzioni": []
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                                }]
-                                                                                                        },
-                                                                                                      {
-                                                                                                              "posto":"Basilica di San Marco",
-                                                                                                              "opzioni": [{
-                                                                                                                                "posto":"Campanile di San Marco",
-                                                                                                                                "opzioni": [{
-                                                                                                                                                  "posto":"Palazzo Ducale",
-                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                    "posto":"Ponti dei Sospiri",
-                                                                                                                                                                    "opzioni": []
-                                                                                                                                                              }]
-                                                                                                                                            }]
-                                                                                                                          }]
-                                                                                                        },
-                                                                                                      {
-                                                                                                              "posto":"Ponti dei Sospiri",
-                                                                                                              "opzioni": [{
-                                                                                                                      "posto":"Palazzo Ducale",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Campanile di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Basilica di San Marco",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Teatro La Fenice",
-                                                                                                                                                                            "opzioni": []
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                              }]
-                                                                                                      }]
-                                                                                      }]
-                                                                    }]
-                                                  }]
-                                }]
-              },
+  "posto": "Stazione Santa Lucia",
+  "opzioni": [
+    {
+      "posto": "Ponte della Costituzione",
+      "opzioni": [
+        {
+          "posto": "Giardini Papadopoli",
+          "opzioni": [
             {
-                    "posto":"Palazzo Soranzo Cappello",
-                    "opzioni": [{
-                                      "posto":"Museo di Storia Naturale di Venezia",
-                                      "opzioni": [{
-                                                        "posto":"Museo di Storia Naturale di Venezia",
-                                                        "opzioni": [{
-                                                                "posto":"Mercato di Rialto",
-                                                                "opzioni": [{
-                                                                                  "posto":"Ponte di Rialto",
-                                                                                  "opzioni": [{
-                                                                                                    "posto":"Casino Venier",
-                                                                                                    "opzioni": [{
-                                                                                                                      "posto":"Teatro La Fenice",
-                                                                                                                      "opzioni": [{
-                                                                                                                              "posto":"Basilica di San Marco",
-                                                                                                                              "opzioni": [{
-                                                                                                                                                "posto":"Campanile di San Marco",
-                                                                                                                                                "opzioni": [{
-                                                                                                                                                                  "posto":"Palazzo Ducale",
-                                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                                    "posto":"Ponti dei Sospiri",
-                                                                                                                                                                                    "opzioni": []
-                                                                                                                                                                              }]
-                                                                                                                                                            }]
-                                                                                                                                          }]
-                                                                                                                        }]
-                                                                                                                },
-                                                                                                              {
-                                                                                                                      "posto":"Basilica di San Marco",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Campanile di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Palazzo Ducale",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Ponti dei Sospiri",
-                                                                                                                                                                            "opzioni": []
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                                },
-                                                                                                              {
-                                                                                                                      "posto":"Ponti dei Sospiri",
-                                                                                                                      "opzioni": [{
-                                                                                                                              "posto":"Palazzo Ducale",
-                                                                                                                              "opzioni": [{
-                                                                                                                                                "posto":"Campanile di San Marco",
-                                                                                                                                                "opzioni": [{
-                                                                                                                                                                  "posto":"Basilica di San Marco",
-                                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                                    "posto":"Teatro La Fenice",
-                                                                                                                                                                                    "opzioni": []
-                                                                                                                                                                              }]
-                                                                                                                                                            }]
-                                                                                                                                          }]
-                                                                                                                      }]
-                                                                                                              }]
-                                                                                              }]
-                                                                            }]
-                                                          }]
-                                                  },
+              "posto": "Palazzo Soranzo Cappello",
+              "opzioni": [
+                {
+                  "posto": "Museo di Storia Naturale di Venezia",
+                  "opzioni": [
+                    {
+                      "posto": "Mercato di Rialto",
+                      "opzioni": [
+                        {
+                          "posto": "Ponte di Rialto",
+                          "opzioni": [
+                            {
+                              "posto": "Casino Venier",
+                              "opzioni": [
+                                {
+                                  "posto": "Teatro La Fenice",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Basilica di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Campanile di San Marco",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Palazzo Ducale",
+                                              "opzioni": [
                                                 {
-                                                        "posto":"Scuola Grande di San Rocco",
-                                                        "opzioni": [{
-                                                                          "posto":"Ponte di Rialto",
-                                                                          "opzioni": [{
-                                                                                            "posto":"Casino Venier",
-                                                                                            "opzioni": [{
-                                                                                                              "posto":"Teatro La Fenice",
-                                                                                                              "opzioni": [{
-                                                                                                                      "posto":"Basilica di San Marco",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Campanile di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Palazzo Ducale",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Ponti dei Sospiri",
-                                                                                                                                                                            "opzioni": []
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                                }]
-                                                                                                        },
-                                                                                                      {
-                                                                                                              "posto":"Basilica di San Marco",
-                                                                                                              "opzioni": [{
-                                                                                                                                "posto":"Campanile di San Marco",
-                                                                                                                                "opzioni": [{
-                                                                                                                                                  "posto":"Palazzo Ducale",
-                                                                                                                                                  "opzioni": [{
-                                                                                                                                                                    "posto":"Ponti dei Sospiri",
-                                                                                                                                                                    "opzioni": []
-                                                                                                                                                              }]
-                                                                                                                                            }]
-                                                                                                                          }]
-                                                                                                        },
-                                                                                                      {
-                                                                                                              "posto":"Ponti dei Sospiri",
-                                                                                                              "opzioni": [{
-                                                                                                                      "posto":"Palazzo Ducale",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Campanile di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Basilica di San Marco",
-                                                                                                                                                          "opzioni": [{
-                                                                                                                                                                            "posto":"Teatro La Fenice",
-                                                                                                                                                                            "opzioni": []
-                                                                                                                                                                      }]
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                              }]
-                                                                                                      }]
-                                                                                      }]
-                                                                    }]
-                                                  }]
+                                                  "posto": "Ponti dei Sospiri",
+                                                  "opzioni": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 },
-                              {
-                                      "posto":"Scuola Grande di San Rocco",
-                                      "opzioni": [{
-                                                        "posto":"Ponte di Rialto",
-                                                        "opzioni": [{
-                                                                          "posto":"Casino Venier",
-                                                                          "opzioni": [{
-                                                                                            "posto":"Teatro La Fenice",
-                                                                                            "opzioni": [{
-                                                                                                    "posto":"Basilica di San Marco",
-                                                                                                    "opzioni": [{
-                                                                                                                      "posto":"Campanile di San Marco",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Palazzo Ducale",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Ponti dei Sospiri",
-                                                                                                                                                          "opzioni": []
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                                }]
-                                                                                              }]
-                                                                                      },
-                                                                                    {
-                                                                                            "posto":"Basilica di San Marco",
-                                                                                            "opzioni": [{
-                                                                                                              "posto":"Campanile di San Marco",
-                                                                                                              "opzioni": [{
-                                                                                                                                "posto":"Palazzo Ducale",
-                                                                                                                                "opzioni": [{
-                                                                                                                                                  "posto":"Ponti dei Sospiri",
-                                                                                                                                                  "opzioni": []
-                                                                                                                                            }]
-                                                                                                                          }]
-                                                                                                        }]
-                                                                                      },
-                                                                                    {
-                                                                                            "posto":"Ponti dei Sospiri",
-                                                                                            "opzioni": [{
-                                                                                                    "posto":"Palazzo Ducale",
-                                                                                                    "opzioni": [{
-                                                                                                                      "posto":"Campanile di San Marco",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Basilica di San Marco",
-                                                                                                                                        "opzioni": [{
-                                                                                                                                                          "posto":"Teatro La Fenice",
-                                                                                                                                                          "opzioni": []
-                                                                                                                                                    }]
-                                                                                                                                  }]
-                                                                                                                }]
-                                                                                            }]
-                                                                                    }]
-                                                                    }]
-                                                  }]
-                                }]
-              },
+                                {
+                                  "posto": "Basilica di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Campanile di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Palazzo Ducale",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Ponti dei Sospiri",
+                                              "opzioni": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "posto": "Ponti dei Sospiri",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Palazzo Ducale",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Campanile di San Marco",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Basilica di San Marco",
+                                              "opzioni": [
+                                                {
+                                                  "posto": "Teatro La Fenice",
+                                                  "opzioni": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "posto": "Scuola Grande di San Rocco",
+                  "opzioni": [
+                    {
+                      "posto": "Ponte di Rialto",
+                      "opzioni": [
+                        {
+                          "posto": "Casino Venier",
+                          "opzioni": [
+                            {
+                              "posto": "Teatro La Fenice",
+                              "opzioni": [
+                                {
+                                  "posto": "Basilica di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Campanile di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Palazzo Ducale",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Ponti dei Sospiri",
+                                              "opzioni": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "posto": "Basilica di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Palazzo Ducale",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Ponti dei Sospiri",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "posto": "Ponti dei Sospiri",
+                              "opzioni": [
+                                {
+                                  "posto": "Palazzo Ducale",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Campanile di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Basilica di San Marco",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Teatro La Fenice",
+                                              "opzioni": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
             {
-                    "posto":"Ghetto Ebraico",
-                    "opzioni": [{
-                                      "posto":"Campo della Maddalena",
-                                      "opzioni": [{
-                                              "posto":"Galleria Giorgio Franchetti alla Ca' d'Oro",
-                                              "opzioni": [{
-                                                      "posto":"Casa di Marco Polo",
-                                                      "opzioni": [{
-                                                              "posto":"Ponte di Rialto",
-                                                              "opzioni": [{
-                                                                      "posto":"Mercato di Rialto",
-                                                                      "opzioni": [{
-                                                                              "posto":"Museo di Storia Naturale di Venezia",
-                                                                              "opzioni": []
-                                                                        }]
-                                                                },
-                                                                {
-                                                                        "posto":"Scuola Grande di San Rocco",
-                                                                        "opzioni": [{
-                                                                                "posto":"Palazzo Soranzo Cappello",
-                                                                                "opzioni": []
-                                                                          }]
-                                                                  }]
-                                                        },
-                                                      {
-                                                                "posto":"Casino Venier",
-                                                                "opzioni": [{
-                                                                                  "posto":"Teatro La Fenice",
-                                                                                  "opzioni": [{
-                                                                                          "posto":"Basilica di San Marco",
-                                                                                          "opzioni": [{
-                                                                                                            "posto":"Campanile di San Marco",
-                                                                                                            "opzioni": [{
-                                                                                                                              "posto":"Palazzo Ducale",
-                                                                                                                              "opzioni": [{
-                                                                                                                                                "posto":"Ponti dei Sospiri",
-                                                                                                                                                "opzioni": []
-                                                                                                                                          }]
-                                                                                                                        }]
-                                                                                                      }]
-                                                                                    }]
-                                                                            },
-                                                                          {
-                                                                                  "posto":"Basilica di San Marco",
-                                                                                  "opzioni": [{
-                                                                                                    "posto":"Campanile di San Marco",
-                                                                                                    "opzioni": [{
-                                                                                                                      "posto":"Palazzo Ducale",
-                                                                                                                      "opzioni": [{
-                                                                                                                                        "posto":"Ponti dei Sospiri",
-                                                                                                                                        "opzioni": []
-                                                                                                                                  }]
-                                                                                                                }]
-                                                                                              }]
-                                                                            },
-                                                                          {
-                                                                                  "posto":"Ponti dei Sospiri",
-                                                                                  "opzioni": [{
-                                                                                          "posto":"Palazzo Ducale",
-                                                                                          "opzioni": [{
-                                                                                                            "posto":"Campanile di San Marco",
-                                                                                                            "opzioni": [{
-                                                                                                                              "posto":"Basilica di San Marco",
-                                                                                                                              "opzioni": [{
-                                                                                                                                                "posto":"Teatro La Fenice",
-                                                                                                                                                "opzioni": []
-                                                                                                                                          }]
-                                                                                                                        }]
-                                                                                                      }]
-                                                                                  }]
-                                                                          }]
-                                                      }]
-                                                }]
-                                        }]
-                                }]
-              }]
+              "posto": "Scuola Grande di San Rocco",
+              "opzioni": [
+                {
+                  "posto": "Ponte di Rialto",
+                  "opzioni": [
+                    {
+                      "posto": "Casino Venier",
+                      "opzioni": [
+                        {
+                          "posto": "Teatro La Fenice",
+                          "opzioni": [
+                            {
+                              "posto": "Basilica di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Palazzo Ducale",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Ponti dei Sospiri",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Basilica di San Marco",
+                          "opzioni": [
+                            {
+                              "posto": "Campanile di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Palazzo Ducale",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Ponti dei Sospiri",
+                                      "opzioni": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Ponti dei Sospiri",
+                          "opzioni": [
+                            {
+                              "posto": "Palazzo Ducale",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Basilica di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Teatro La Fenice",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "posto": "Palazzo Soranzo Cappello",
+      "opzioni": [
+        {
+          "posto": "Museo di Storia Naturale di Venezia",
+          "opzioni": [
+            {
+              "posto": "Museo di Storia Naturale di Venezia",
+              "opzioni": [
+                {
+                  "posto": "Mercato di Rialto",
+                  "opzioni": [
+                    {
+                      "posto": "Ponte di Rialto",
+                      "opzioni": [
+                        {
+                          "posto": "Casino Venier",
+                          "opzioni": [
+                            {
+                              "posto": "Teatro La Fenice",
+                              "opzioni": [
+                                {
+                                  "posto": "Basilica di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Campanile di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Palazzo Ducale",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Ponti dei Sospiri",
+                                              "opzioni": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "posto": "Basilica di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Palazzo Ducale",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Ponti dei Sospiri",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "posto": "Ponti dei Sospiri",
+                              "opzioni": [
+                                {
+                                  "posto": "Palazzo Ducale",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Campanile di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Basilica di San Marco",
+                                          "opzioni": [
+                                            {
+                                              "posto": "Teatro La Fenice",
+                                              "opzioni": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "posto": "Scuola Grande di San Rocco",
+              "opzioni": [
+                {
+                  "posto": "Ponte di Rialto",
+                  "opzioni": [
+                    {
+                      "posto": "Casino Venier",
+                      "opzioni": [
+                        {
+                          "posto": "Teatro La Fenice",
+                          "opzioni": [
+                            {
+                              "posto": "Basilica di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Palazzo Ducale",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Ponti dei Sospiri",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Basilica di San Marco",
+                          "opzioni": [
+                            {
+                              "posto": "Campanile di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Palazzo Ducale",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Ponti dei Sospiri",
+                                      "opzioni": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Ponti dei Sospiri",
+                          "opzioni": [
+                            {
+                              "posto": "Palazzo Ducale",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Basilica di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Teatro La Fenice",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "posto": "Scuola Grande di San Rocco",
+          "opzioni": [
+            {
+              "posto": "Ponte di Rialto",
+              "opzioni": [
+                {
+                  "posto": "Casino Venier",
+                  "opzioni": [
+                    {
+                      "posto": "Teatro La Fenice",
+                      "opzioni": [
+                        {
+                          "posto": "Basilica di San Marco",
+                          "opzioni": [
+                            {
+                              "posto": "Campanile di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Palazzo Ducale",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Ponti dei Sospiri",
+                                      "opzioni": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "posto": "Basilica di San Marco",
+                      "opzioni": [
+                        {
+                          "posto": "Campanile di San Marco",
+                          "opzioni": [
+                            {
+                              "posto": "Palazzo Ducale",
+                              "opzioni": [
+                                {
+                                  "posto": "Ponti dei Sospiri",
+                                  "opzioni": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "posto": "Ponti dei Sospiri",
+                      "opzioni": [
+                        {
+                          "posto": "Palazzo Ducale",
+                          "opzioni": [
+                            {
+                              "posto": "Campanile di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Basilica di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Teatro La Fenice",
+                                      "opzioni": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "posto": "Ghetto Ebraico",
+      "opzioni": [
+        {
+          "posto": "Campo della Maddalena",
+          "opzioni": [
+            {
+              "posto": "Galleria Giorgio Franchetti alla Ca' d'Oro",
+              "opzioni": [
+                {
+                  "posto": "Casa di Marco Polo",
+                  "opzioni": [
+                    {
+                      "posto": "Ponte di Rialto",
+                      "opzioni": [
+                        {
+                          "posto": "Mercato di Rialto",
+                          "opzioni": [
+                            {
+                              "posto": "Museo di Storia Naturale di Venezia",
+                              "opzioni": []
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Scuola Grande di San Rocco",
+                          "opzioni": [
+                            {
+                              "posto": "Palazzo Soranzo Cappello",
+                              "opzioni": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "posto": "Casino Venier",
+                      "opzioni": [
+                        {
+                          "posto": "Teatro La Fenice",
+                          "opzioni": [
+                            {
+                              "posto": "Basilica di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Palazzo Ducale",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Ponti dei Sospiri",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Basilica di San Marco",
+                          "opzioni": [
+                            {
+                              "posto": "Campanile di San Marco",
+                              "opzioni": [
+                                {
+                                  "posto": "Palazzo Ducale",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Ponti dei Sospiri",
+                                      "opzioni": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Ponti dei Sospiri",
+                          "opzioni": [
+                            {
+                              "posto": "Palazzo Ducale",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Basilica di San Marco",
+                                      "opzioni": [
+                                        {
+                                          "posto": "Teatro La Fenice",
+                                          "opzioni": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

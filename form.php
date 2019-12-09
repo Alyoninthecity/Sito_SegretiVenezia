@@ -22,8 +22,12 @@ if (isset($_POST["posAtt"])) {
   <body>
     <form action="form.php" method="post">
       <?php
+      if (count($_SESSION["obj"]->opzioni)!=0) {
         echo "Ti trovi a ".($_SESSION["obj"]->posto);
         Funzioni::generaSelect($_SESSION["obj"]);
+      } else {
+        echo "Sei arrivato a: ".($_SESSION["obj"]->posto).". Vicolo cieco";
+      }
        ?>
        <input type="submit" name="lel" value="Vai">
     </form>
