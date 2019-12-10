@@ -38,7 +38,6 @@ if (isset($_POST["posAtt"])) {
   </form>
   <form action="./paginaFinale.php" method="post">
     <input type="submit" name="fine" value="Finisci">
-    input
   </form>
 </body>
 
