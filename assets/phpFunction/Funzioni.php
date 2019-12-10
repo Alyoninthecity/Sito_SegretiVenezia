@@ -1,4 +1,5 @@
 <?php
+
 class Funzioni
 {
 
@@ -15,7 +16,7 @@ class Funzioni
 
   public static function creaImmaginePosto($obj)
   {
-    echo "<img class='img' src='".self::URL_IMMAGINI.str_replace(" ", "_", $obj->posto).".jpg' alt='".$obj->posto."'>";
+    echo "<img class='img' src='" . self::URL_IMMAGINI . str_replace(" ", "_", $obj->posto) . ".jpg' alt='" . $obj->posto . "'>";
   }
 
   public static function mettiALink($string)
