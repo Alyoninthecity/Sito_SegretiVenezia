@@ -274,41 +274,17 @@
           "posto": "Museo di Storia Naturale di Venezia",
           "opzioni": [
             {
-              "posto": "Museo di Storia Naturale di Venezia",
+              "posto": "Mercato di Rialto",
               "opzioni": [
                 {
-                  "posto": "Mercato di Rialto",
+                  "posto": "Ponte di Rialto",
                   "opzioni": [
                     {
-                      "posto": "Ponte di Rialto",
+                      "posto": "Casino Venier",
                       "opzioni": [
                         {
-                          "posto": "Casino Venier",
+                          "posto": "Teatro La Fenice",
                           "opzioni": [
-                            {
-                              "posto": "Teatro La Fenice",
-                              "opzioni": [
-                                {
-                                  "posto": "Basilica di San Marco",
-                                  "opzioni": [
-                                    {
-                                      "posto": "Campanile di San Marco",
-                                      "opzioni": [
-                                        {
-                                          "posto": "Palazzo Ducale",
-                                          "opzioni": [
-                                            {
-                                              "posto": "Ponti dei Sospiri",
-                                              "opzioni": []
-                                            }
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
                             {
                               "posto": "Basilica di San Marco",
                               "opzioni": [
@@ -327,24 +303,43 @@
                                   ]
                                 }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Basilica di San Marco",
+                          "opzioni": [
                             {
-                              "posto": "Ponti dei Sospiri",
+                              "posto": "Campanile di San Marco",
                               "opzioni": [
                                 {
                                   "posto": "Palazzo Ducale",
                                   "opzioni": [
                                     {
-                                      "posto": "Campanile di San Marco",
+                                      "posto": "Ponti dei Sospiri",
+                                      "opzioni": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "posto": "Ponti dei Sospiri",
+                          "opzioni": [
+                            {
+                              "posto": "Palazzo Ducale",
+                              "opzioni": [
+                                {
+                                  "posto": "Campanile di San Marco",
+                                  "opzioni": [
+                                    {
+                                      "posto": "Basilica di San Marco",
                                       "opzioni": [
                                         {
-                                          "posto": "Basilica di San Marco",
-                                          "opzioni": [
-                                            {
-                                              "posto": "Teatro La Fenice",
-                                              "opzioni": []
-                                            }
-                                          ]
+                                          "posto": "Teatro La Fenice",
+                                          "opzioni": []
                                         }
                                       ]
                                     }
