@@ -14,7 +14,7 @@ if (isset($_POST["posAtt"])) {
 }
 ?>
 
-<form action="./form.php" method="post">
+<form action="#" method="post">
   <?php
   Funzioni::creaImmaginePosto($_SESSION["obj"]);
   echo "<br>";
@@ -25,7 +25,6 @@ if (isset($_POST["posAtt"])) {
   } else {
     echo "Sei arrivato a: " . ($_SESSION["obj"]->posto) . ". Vicolo cieco";
   }
-  var_dump($_SESSION);
   ?>
 
 </form>

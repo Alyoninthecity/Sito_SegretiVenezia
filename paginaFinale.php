@@ -1,7 +1,9 @@
 <?php include_once("header.php") ?>
-<!-- Percorso creato-->
 <?php
-echo "<a href='" . $_SESSION["link"] . "'> Apri percorso in Google Maps </a>";
+/**Percorso finale */
+require_once './assets/phpFunction/Funzioni.php';
+session_start();
+echo "<a href=" . $_SESSION["link"] . "> Apri percorso in Google Maps </a>";
 echo "<hr>";
 $tappe = Funzioni::creaArrayTappeDaLink($_SESSION["link"]);
 echo "<ol>";
@@ -12,7 +14,6 @@ foreach ($tappe as $key => $value) {
 }
 echo "</ol>";
 unset($_SESSION["Link"], $_SESSION["obj"]);
-var_dump($_SESSION);
 ?>
 <form action="./form.php" method="post">
   <input type="submit" value="Rifai">

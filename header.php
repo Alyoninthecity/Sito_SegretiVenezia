@@ -16,3 +16,4 @@
             <p>Crea il tuo percorso personalizzato per Venezia</p>
         </div>
     </header>
+    <section>
