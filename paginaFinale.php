@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-require_once 'Funzioni.php';
+require_once './phpFunction/Funzioni.php';
 session_start();
 ?>
 <html lang="en" dir="ltr">
@@ -23,7 +23,7 @@ session_start();
   echo "</ol>";
   unset($_SESSION["Link"], $_SESSION["obj"]);
   ?>
-  <form action="form.php" method="post">
+  <form action="./form.php" method="post">
     <input type="submit" value="Rifai">
   </form>
 </body>
