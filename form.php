@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php
-require_once './phpFunction/Funzioni.php';
+require_once './assets/phpFunction/Funzioni.php';
 session_start();
 if (!isset($_SESSION["obj"])) {
-  $json = file_get_contents('./json/data.json');
+  $json = file_get_contents('./assets/json/data.json');
   $_SESSION["obj"] = json_decode($json);
 }
 if (!isset($_SESSION["link"])) {

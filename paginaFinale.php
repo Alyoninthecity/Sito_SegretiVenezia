@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-require_once './phpFunction/Funzioni.php';
+require_once './assets/phpFunction/Funzioni.php';
 session_start();
 ?>
 <html lang="en" dir="ltr">
