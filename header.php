@@ -10,10 +10,29 @@
 
 <body>
     <header id="header">
-
-        <div class="">
-            <h1>Segreti di Venezia</h1>
-            <p>Crea il tuo percorso personalizzato per Venezia</p>
+        <div id="header" class="container">
+            <div id="logo">
+                <h1><a href="#">Segreti di Venezia</a></h1>
+            </div>
+            <div id="menu">
+                <ul>
+                    <li class="active"><a href="#" accesskey="1" title="">Homepage</a></li>
+                    <li><a href="#" accesskey="2" title="">Our Clients</a></li>
+                    <li><a href="#" accesskey="3" title="">About Us</a></li>
+                    <li><a href="#" accesskey="4" title="">Careers</a></li>
+                    <li><a href="#" accesskey="5" title="">Contact Us</a></li>
+                </ul>
+            </div>
         </div>
+        <div id="banner" class="container">
+            <div class="title">
+                <h2>Segreti di Venezia</h2>
+                <span class="byline">Crea il tuo percorso personalizzato per Venezia</span>
+            </div>
+            <ul class="actions">
+                <li><a href="#" class="button">Pulvinar mollis</a></li>
+            </ul>
+        </div>
+
     </header>
     <section>
