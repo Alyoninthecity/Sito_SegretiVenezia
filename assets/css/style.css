@@ -2,13 +2,15 @@
 @import url("https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro:200,400");
 /* Reset */
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+html, body {
 	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
+}
+
+a {
 	font: inherit;
-	vertical-align: baseline;
 }
 
 /*Inizio css*/
@@ -20,6 +22,45 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 /*Header*/
+
+#header:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
+	background-color: rgba(0, 0, 0, 0.25);
+}
+
+#header {
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 8em 0 6em 0;
+	background-image: url('.././img/Head.jpg');
+}
+
+#header.alt {
+	height: 20em;
+	min-height: 20em;
+	min-height: 75vh;
+}
+
+#header .content {
+	position: relative;
+	z-index: 1;
+}
+
+#header.content h2 {
+	font-family: "Pacifico", cursive;
+}
 
 /*Body*/
 
