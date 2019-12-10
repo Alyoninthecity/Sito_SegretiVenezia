@@ -27,14 +27,16 @@ if (isset($_POST["posAtt"])) {
     if (count($_SESSION["obj"]->opzioni) != 0) {
       echo "Ti trovi a " . ($_SESSION["obj"]->posto);
       Funzioni::generaSelect($_SESSION["obj"]);
+      echo "<input type='submit' value='Vai'>";
     } else {
       echo "Sei arrivato a: " . ($_SESSION["obj"]->posto) . ". Vicolo cieco";
     }
     ?>
-    <input type="submit" name="lel" value="Vai">
+
   </form>
   <form action="paginaFinale.php" method="post">
     <input type="submit" name="fine" value="Finisci">
+    input
   </form>
 </body>
 
