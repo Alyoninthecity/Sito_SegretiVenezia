@@ -1,7 +1,4 @@
 <?php
-
-echo "<h1>ahahahhahahah</h1>";
-
 class Funzioni
 {
 
