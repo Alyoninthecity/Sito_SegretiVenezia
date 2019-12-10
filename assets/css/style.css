@@ -1,0 +1,28 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro:200,400");
+/* Reset */
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+/*Inizio css*/
+
+/*Generali*/
+
+/*Header*/
+
+/*Body*/
+
+/*Footer*/
+
+#footer {
+	text-align: center;
+	width: 100%;
+	background-color: aquamarine;
+}
+
+.copyright {
+	font-size: 0.8em;
+}
