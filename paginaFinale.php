@@ -12,7 +12,8 @@ session_start();
 
 <body>
   <?php
-  echo "<a href=" . $_SESSION["link"] . ">" . $_SESSION["link"] . "</a><hr>";
+  echo "<a href=" . $_SESSION["link"] . "> Apri percorso in Google Maps </a>";
+  echo "<hr>";
   $tappe = Funzioni::creaArrayTappeDaLink($_SESSION["link"]);
   echo "<ol>";
   foreach ($tappe as $key => $value) {
