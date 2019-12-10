@@ -24,6 +24,8 @@ if (isset($_POST["posAtt"])) {
 <body>
   <form action="form.php" method="post">
     <?php
+    Funzioni::creaImmaginePosto($_SESSION["obj"]);
+    echo "<br>";
     if (count($_SESSION["obj"]->opzioni) != 0) {
       echo "Ti trovi a " . ($_SESSION["obj"]->posto);
       Funzioni::generaSelect($_SESSION["obj"]);

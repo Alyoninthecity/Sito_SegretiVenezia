@@ -1,6 +1,9 @@
 <?php
 class Funzioni
 {
+
+  private const URL_IMMAGINI = "./assets/img/";
+
   public static function generaSelect($obj)
   {
     echo "<select name='posAtt'>";
@@ -8,6 +11,11 @@ class Funzioni
       echo "<option value='" . $key . "'>" . $value->posto . "</option>";
     }
     echo "</select>";
+  }
+
+  public function creaImmaginePosto($obj)
+  {
+    echo "<img class='img' src='".self::URL_IMMAGINI.str_replace(" ", "_", $obj->posto).".png' alt='".$obj->posto."'>";
   }
 
   public function mettiALink($string)
