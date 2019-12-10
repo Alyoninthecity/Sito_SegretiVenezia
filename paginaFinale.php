@@ -15,7 +15,7 @@ foreach ($tappe as $key => $value) {
 echo "</ol>";
 unset($_SESSION["Link"], $_SESSION["obj"]);
 ?>
-<form action="./form.php" method="post">
+<form action="./index.php" method="post">
   <input type="submit" value="Rifai">
 </form>
 <?php include_once("footer.php") ?>

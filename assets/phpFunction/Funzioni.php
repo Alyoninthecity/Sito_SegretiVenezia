@@ -16,7 +16,8 @@ class Funzioni
 
   public static function creaImmaginePosto($obj)
   {
-    echo "<img class='img' src='" . self::URL_IMMAGINI . str_replace(" ", "_", $obj->posto) . ".jpg' alt='" . $obj->posto . "'>";
+    echo "<img class='img' src='" . self::URL_IMMAGINI . strtolower(str_replace(" ", "_", $obj->posto)) . ".jpg' alt='" . $obj->posto . "'>";
+    echo strtolower(str_replace(" ", "_", $obj->posto));
   }
 
   public static function mettiALink($string)

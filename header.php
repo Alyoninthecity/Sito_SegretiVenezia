@@ -30,7 +30,7 @@
                 <span class="byline">Crea il tuo percorso personalizzato per Venezia</span>
             </div>
             <ul class="actions">
-                <li><a href="#" class="button">Pulvinar mollis</a></li>
+                <li><a href="#" class="button">Crea</a></li>
             </ul>
         </div>
 
