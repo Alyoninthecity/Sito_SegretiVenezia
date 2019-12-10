@@ -13,7 +13,7 @@ foreach ($tappe as $key => $value) {
   }
 }
 echo "</ol>";
-unset($_SESSION["Link"], $_SESSION["obj"]);
+session_destroy();
 ?>
 <form action="./index.php" method="post">
   <input type="submit" value="Rifai">
