@@ -13,7 +13,27 @@
     <div id="nav">
         <ul>
             <li class="active navbotton"><a href="./index.php" title="">Home</a></li>
-            <li class="navbotton"><a href="#" title="">Destinazioni</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Destinazioni</a>
+                <div class="dropdown-content">
+                    <a href="./"></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href=""></a> </div>
+            </li>
             <li class="navbotton"><a href="#" title="">About Us</a></li>
             <li class="lilogo"><a href="#" title="">MPYM</a></li>
         </ul>
