@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">GIARDINI PAPADOPOLI</h1>
-<img class="img" src="./assets/img/Giardino_Padadopoli.jpg" alt="Giardini Padadopoli">
+<img class="img" src="assets/img/Giardino_Padadopoli.jpg" alt="Giardini Padadopoli">
 <a class="fonte" href="http://travelwithtiny.com/playgrounds-in-venice-for-kids-giardino-papadopoli-2/">
 Tratto da: http://travelwithtiny.com/playgrounds-in-venice-for-kids-giardino-papadopoli-2/</a>
 <p class="testo">È una delle “porte d’accesso” al centro storico di Venezia. <br>

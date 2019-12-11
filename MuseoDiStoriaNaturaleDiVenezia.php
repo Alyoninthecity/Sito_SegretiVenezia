@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">Museo di Storia Naturale di Venezia</h1>
-<img class="img" src="./assets/img/museo_di_storia_naturale_di_venezia.jpg" alt="Museo di Storia Naturale di Venezia">
+<img class="img" src="assets/img/museo_di_storia_naturale_di_venezia.jpg" alt="Museo di Storia Naturale di Venezia">
 <a class="fonte" href="https://martinaway.com/museo-di-storia-naturale-di-venezia/">https://martinaway.com/museo-di-storia-naturale-di-venezia/</a>
 <p class="testo">Il Museo di storia naturale si trova all'interno del Fontego dei Turchi, l'importante palazzo
 di Venezia affacciato sul Canal Grande.<br>

@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">CAMPANILE DI SAN MARCO</h1>
-<img class="img" src="./assets/img/Campanile_di_San_Marco.jpg" alt="Campanile di San Marco">
+<img class="img" src="assets/img/Campanile_di_San_Marco.jpg" alt="Campanile di San Marco">
 <a class="fonte" href="https://www.hotelbucintoro.com/it/il-campanile-di-san-marco-venezia/">
 Tratto da: https://www.hotelbucintoro.com/it/il-campanile-di-san-marco-venezia/</a>
 <p class="testo">Il Campanile di San Marco è un simbolo tra i più eminenti della città di Venezia

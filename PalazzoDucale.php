@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">PALAZZO DUCALE</h1>
-<img class="img" src="./assets/img/Palazzo_Ducale.jpg" alt="Palazzo Ducale">
+<img class="img" src="assets/img/Palazzo_Ducale.jpg" alt="Palazzo Ducale">
 <a class="fonte" href="https://www.10cose.it/venezia/palazzo-ducale-venezia">
 Tratto da:https://www.10cose.it/venezia/palazzo-ducale-venezia</a>
 <p class="testo">Il Palazzo Ducale si trova in Piazza San Marco: affacciato sulla laguna, accanto alla Basilica di San Marco e riassume tutta la storia della città, dagli eventi politici ai giochi di potere, dalle vittorie in battaglia alle vicende artistiche.<br>

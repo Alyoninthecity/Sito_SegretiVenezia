@@ -21,7 +21,7 @@
                     <a href="./CampanileDiSanMarco.php">Campanile di San Marco</a>
                     <a href="./CampoDellaMaddalena.php">Campo della Maddalena</a>
                     <a href="./CasinoVenier.php">Casino Venier</a>
-                    <a href="./GhettoEbraico.php">GhettoEbraico</a>
+                    <a href="./GhettoEbraico.php">Ghetto Ebraico</a>
                     <a href="./GiardiniPapadopoli.php">Giardini Papadopoli</a>
                     <a href="./MercatodiRialto.php">Mercato di Rialto</a>
                     <a href="./MuseoDiStoriaNaturaleDiVenezia.php">Museo Di Storia Naturale Di Venezia</a>

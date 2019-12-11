@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">Ghetto ebraico</h1>
-<img class="img" src="./assets/img/ghetto_ebraico.jpg" alt="Ghetto ebraico">
+<img class="img" src="assets/img/ghetto_ebraico.jpg" alt="Ghetto ebraico">
 <a class="fonte" href="http://www.museoebraico.it/il-ghetto/">http://www.museoebraico.it/il-ghetto/</a>
 <p class="testo">Usciti dalla stazione di Venezia Santa Lucia e proseguendo per Strada Nuova si svolta a
 sinistra dopo il ponte delle Guglie. Sulla destra si apre un sottoportego. E’ l’ingresso

@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">Campo della Maddalena</h1>
-<img class="img" src="./assets/img/campo_della_maddalena.jpg" alt="Campo della Maddalena">
+<img class="img" src="assets/img/campo_della_Maddalena.jpg" alt="Campo della Maddalena">
 <a class="fonte" href="https://www.unospitedivenezia.it/info-utili/gran-teatro-la-fenice/">https://www.unospitedivenezia.it/info-utili/gran-teatro-la-fenice/</a>
 <p class="testo">Uno di questi posti incantati, che riesce sempre a darti la sensazione di essere al centro
     di uno scenario fiabesco, è il Campo della Maddalena.<br>

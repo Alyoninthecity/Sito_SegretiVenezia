@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">Mercato di Rialto</h1>
-<img class="img" src="./assets/img/mercato_di_rialto.jpg" alt="Mercato di Rialto">
+<img class="img" src="assets/img/mercato_di_rialto.jpg" alt="Mercato di Rialto">
 <a class="fonte" href="https://www.ifood.it/2016/05/il-mercato-di-rialto-avenezia.html">https://www.ifood.it/2016/05/il-mercato-di-rialto-avenezia.html</a>
 <p class="testo">il Mercato di Rialto, uno dei mercati più antichi di Venezia, è situato nei pressi
 dell'omonimo Ponte di Rialto, nel cuore del centro storico di Venezia, e si estende tra

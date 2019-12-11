@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">PONTE DELLA COSTITUZIONE</h1>
-<img class="img" src="./assets/img/Ponte_della_Costituzione.jpg" alt="Ponte della Costituzione">
+<img class="img" src="assets/img/Ponte_della_Costituzione.jpg" alt="Ponte della Costituzione">
 <a class="fonte" href=" https://it.wikipedia.org/wiki/Ponte_della_Costituzione">
 Tratto da:  https://it.wikipedia.org/wiki/Ponte_della_Costituzione</a>
 <p class="testo">Venezia è una città che nasce sulla laguna e quindi er evidenti 

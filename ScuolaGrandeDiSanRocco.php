@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">Scuola Grande di San Rocco</h1>
-<img class="img" src="./assets/img/scuola_grande_di_san_rocco.jpg" alt="Scuola Grande di San Rocco">
+<img class="img" src="assets/img/scuola_grande_di_san_rocco.jpg" alt="Scuola Grande di San Rocco">
 <a class="fonte" href="http://www.scuolagrandesanrocco.org/home/">http://www.scuolagrandesanrocco.org/home/</a>
 <p class="testo">La Scuola Grande di san Rocco è una Confraternita di laici fondata nel 1478. La
 profonda venerazione popolare nei confronti di san Rocco, la cui reliquia era già in
