@@ -33,7 +33,7 @@ setcookie("visita", time());
       if (count($_SESSION["obj"]->opzioni) != 0) {
         echo "<span>Ti trovi a " . ($_SESSION["obj"]->posto) . "</span>";
         Funzioni::generaSelect($_SESSION["obj"]);
-        echo "<input class='button' type='submit' value='Vai'>";
+        echo "<input class='button' id='vai' type='submit' value='Vai'>";
       } else {
         echo "Sei arrivato a: " . ($_SESSION["obj"]->posto) . ". Vicolo cieco";
       }
