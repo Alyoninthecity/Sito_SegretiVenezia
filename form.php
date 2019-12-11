@@ -41,6 +41,7 @@ setcookie("visita", time());
 
     </form>
     <form action="./paginaFinale.php" method="post">
-      <input type="submit" name="fine" value="Finisci">
+      <input id="finisci" type="submit" name="fine" value="Finisci">
     </form>
+    <br>
 </div>

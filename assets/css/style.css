@@ -30,7 +30,7 @@ a {
 /*Generali*/
 
 .img {
-	max-width: 100%;
+	min-width: 100%;
 }
 
 div.destinazioneImg {
@@ -203,6 +203,7 @@ a.button:hover {
 
 section {
 	padding: 0 7.6em;
+	padding-bottom: 3em;
 }
 
 input[type=submit] {
@@ -226,15 +227,15 @@ input[type=submit]:hover {
 }
 
 input[type=submit]#vai {
-	display: inline-block;
-	text-align: center;
-}
-
-input[type=submit]#vai {
-	display: block;
+	float: right;
 }
 
 /*Footer*/
+
+h6 {
+	margin: 0;
+	padding: 0;
+}
 
 #footer {
 	text-align: center;
