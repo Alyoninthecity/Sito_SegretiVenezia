@@ -18,6 +18,6 @@
         Un altro problema che abbiamo riscontrato è che non possediamo alcune conoscenze che ci servivano per la costruzione del sito, ad esempio quello di implementare un database, siamo però riusciti a raggirare il problema usando i file Json che abbiamo appreso durante il mese di alternanza scuola-lavoro.
     </p>
 </div>
-<div class="centered"><img src="./assets/img/selfie.jpg" alt="Questi Siamo Noi"></div>
+<div class="centered"><img class="img" src="./assets/img/selfie.jpg" alt="Questi Siamo Noi"></div>
 <div class="centered">Foto di noi 4 a Venezia</div>
 <?php include_once("footer.php") ?>

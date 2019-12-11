@@ -17,18 +17,18 @@
                 <a href="javascript:void(0)" class="dropbtn" title="Destinazioni">Destinazioni</a>
                 <div class="dropdown-content">
                     <a href="./StazioneVenezia.php" title="Stazione di Venezia">Stazione di Venezia</a>
-                    <a href="./BasilicataDiSanMarco.php" title="Basilicata di San Marco">Basilicata di San Marco</a>
+                    <a href="./BasilicaDiSanMarco.php" title="Basilicata di San Marco">Basilicata di San Marco</a>
                     <a href="./CampanileDiSanMarco.php" title="Campanile di San Marco">Campanile di San Marco</a>
                     <a href="./CampoDellaMaddalena.php" title="Campo della Maddalena">Campo della Maddalena</a>
                     <a href="./CasinoVenier.php" title="Casino Venier">Casino Venier</a>
-                    <a href="./GhettoEbraico.php" title="GhettoEbraico">GhettoEbraico</a>
+                    <a href="./GhettoEbraico.php" title="Ghetto Ebraico">Ghetto Ebraico</a>
                     <a href="./GiardiniPapadopoli.php" title="Giardini Papadopoli">Giardini Papadopoli</a>
                     <a href="./MercatodiRialto.php" title="Mercato di Rialto">Mercato di Rialto</a>
                     <a href="./MuseoDiStoriaNaturaleDiVenezia.php" title="Museo Di Storia Naturale Di Venezia">Museo Di Storia Naturale Di Venezia</a>
                     <a href="./PalazzoDucale.php" title="Palazzo Ducale">Palazzo Ducale</a>
                     <a href="./PalazzoSoranzoCappello.php" title="Palazzo Soranzo Cappello">Palazzo Soranzo Cappello</a>
                     <a href="./PiazzaSanMarco.php" title="Piazza San Marco">Piazza San Marco</a>
-                    <a href="./PonteDellaCostitutizione.php" title="Ponte della Costituzione">Ponte della Costituzione</a>
+                    <a href="./PonteDellaCostituzione.php" title="Ponte della Costituzione">Ponte della Costituzione</a>
                     <a href="./PonteDiRialto.php" title="Ponte di Rialto">Ponte di Rialto</a>
                     <a href="./PontiDeiSospiri.php" title="Ponte dei Sospiri">Ponte dei Sospiri</a>
                     <a href="./ScuolaGrandeDiSanRocco.php" title="Scuola Grande di San Rocco">Scuola Grande di San Rocco</a>
