@@ -35,7 +35,7 @@
                     <a href="./TeatroLaFenice.php" title="Teatro La Fenice">Teatro La Fenice</a> </div>
             </li>
             <li class="navbotton"><a href="./about.php" title="About">About Us</a></li>
-            <li class="lilogo" title="MPYM">MPYM</li>
+            <li class="lilogo"><a href="#" title="MPYM">MPYM</a></li>
         </ul>
     </div>
 
