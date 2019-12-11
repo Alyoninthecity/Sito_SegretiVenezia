@@ -9,21 +9,27 @@
 </head>
 
 <body>
+
+    <div id="nav">
+        <ul>
+            <li class="active navbotton"><a href="./index.php" title="">Home</a></li>
+            <li class="navbotton"><a href="#" title="">Destinazioni</a></li>
+            <li class="navbotton"><a href="#" title="">About Us</a></li>
+            <li class="lilogo"><a href="#" title="">MPYM</a></li>
+        </ul>
+    </div>
+
+
+
     <header id="header">
         <div class="content">
-            <div id="menu">
+            <h2 class="title">Segreti di Venezia</h2>
+            <span class="subTitle">Crea il tuo percorso personalizzato per Venezia</span>
+            <a href="./index.php#formPercorso" class="button">Start</a></li>
 
-            </div>
-            <div id="banner" class="container">
-                <div class="title">
-                    <h2>Segreti di Venezia</h2>
-                    <span class="byline">Crea il tuo percorso personalizzato per Venezia</span>
-                </div>
-                <ul class="actions">
-                    <li><a href="#" class="button">Crea</a></li>
-                </ul>
-            </div>
+        </div>
         </div>
 
     </header>
+    <hr class="divisore">
     <section>

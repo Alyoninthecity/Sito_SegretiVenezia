@@ -9,7 +9,7 @@ $tappe = Funzioni::creaArrayTappeDaLink($_SESSION["link"]);
 echo "<ol>";
 foreach ($tappe as $key => $value) {
   if ($key > 4) {
-    echo "<li>" . $value . "</li>";
+    echo "<li>" . $value . "</li><br>";
   }
 }
 echo "</ol>";

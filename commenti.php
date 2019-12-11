@@ -10,16 +10,16 @@ if (isset($_POST["nickname"])) {
   $arrComm[0][2] = date("G:i - j F Y");
 }
 ?>
-<form action="commenti.php" method="post">
+<form action="#" method="post">
   <input type="text" name="nickname" placeholder="Username...">
   <input type="text" name="commento" placeholder="Inserisci il tuo commento">
   <input type="submit" value="Commenta">
 </form>
 <?php
 foreach ($arrComm as $key => $value) {
-  echo "<h2>" . $value[0] . "</h2>";
-  echo "<div>" . $value[1] . "</div>";
+  echo "<h3>" . $value[0] . "</h3>";
   echo "<div>" . $value[2] . "</div>";
+  echo "<div>" . $value[1] . "</div>";
 } //foreach
 $comm->commenti = $arrComm;
 $comm = json_encode($comm);
