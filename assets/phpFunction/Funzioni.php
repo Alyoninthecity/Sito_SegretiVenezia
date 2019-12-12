@@ -7,7 +7,7 @@ class Funzioni
 
   public static function generaSelect($obj)
   {
-    echo ", prossima tappa :<select name='posAtt'>";
+    echo ", prossima tappa :<select  name='posAtt'>";
     foreach ($obj->opzioni as $key => $value) {
       echo "<option value='" . $key . "'>" . $value->posto . "</option>";
     }
@@ -16,7 +16,7 @@ class Funzioni
 
   public static function creaImmaginePosto($obj)
   {
-    echo "<div class='destinazioneImg'><img class='img' src='" . self::URL_IMMAGINI . strtolower(str_replace(" ", "_", $obj->posto)) . ".jpg' alt='" . $obj->posto . "'><p class='centrato'>" . $obj->posto . "</p></div>";
+    echo "<div class='destinazioneImg' id='img'><img class='img' src='" . self::URL_IMMAGINI . strtolower(str_replace(" ", "_", $obj->posto)) . ".jpg' alt='" . $obj->posto . "'><p class='centrato'>" . $obj->posto . "</p></div>";
   }
 
   public static function mettiALink($string)

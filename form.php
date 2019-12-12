@@ -26,10 +26,11 @@ setcookie("visita", time());
 <div>
   <h2 class="centrato"><?php echo $saluto ?></h1>
     <?php echo $istruzioni ?>
-    <form id="formPercorso" action="#" method="post">
+    <form id="formPercorso" action="#img" method="post">
       <?php
       Funzioni::creaImmaginePosto($_SESSION["obj"]);
       echo "<br>";
+      echo "<div class='centrato principale'>";
       if (count($_SESSION["obj"]->opzioni) != 0) {
         echo "<span>Ti trovi a " . ($_SESSION["obj"]->posto) . "</span>";
         Funzioni::generaSelect($_SESSION["obj"]);
@@ -37,10 +38,11 @@ setcookie("visita", time());
       } else {
         echo "Sei arrivato a: " . ($_SESSION["obj"]->posto) . ". Vicolo cieco";
       }
+      echo "</div>";
       ?>
 
     </form>
-    <form action="./paginaFinale.php" method="post">
+    <form class="centrato submit" action="./paginaFinale.php" method="post">
       <input id="finisci" type="submit" name="fine" value="Finisci">
     </form>
     <br>

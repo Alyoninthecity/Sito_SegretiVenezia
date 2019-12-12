@@ -3,8 +3,9 @@
 /**Percorso finale */
 require_once './assets/phpFunction/Funzioni.php';
 session_start();
-echo "<a href=" . $_SESSION["link"] . "> Apri percorso in Google Maps </a>";
+echo "<a href=" . $_SESSION["link"] . " target='_blank'> Apri percorso in Google Maps </a>";
 echo "<hr>";
+echo "<h1>Queste sono le tue tappe : </h1>";
 $tappe = Funzioni::creaArrayTappeDaLink($_SESSION["link"]);
 echo "<ol>";
 foreach ($tappe as $key => $value) {

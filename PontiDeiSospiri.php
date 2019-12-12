@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">Ponti dei Sospiri</h1>
-<img class="img" src="assets/img/ponti_dei_sospiri.jpg" alt="Ponti dei Sospiri">
+<img class="img" src="./assets/img/ponti_dei_sospiri.jpg" alt="Ponti dei Sospiri">
 <a class="fonte" href="https://www.alpontedeisospiri.it/">https://www.alpontedeisospiri.it/</a>
 <p class="testo">Ponte dei Sospiri È uno dei simboli della città lagunare, è considerato il ponte
 dell'amore. Il Ponte dei Sospiri si ammira in tutta la sua bellezza dal vicino Ponte della

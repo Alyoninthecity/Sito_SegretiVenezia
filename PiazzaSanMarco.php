@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">PIAZZA SAN MARCO</h1>
-<img class="img" src="assets/img/Piazza_San_Massimo.jpg" alt="Piazza San Massimo">
+<img class="img" src="./assets/img/Piazza_San_Massimo.jpg" alt="Piazza San Massimo">
 <a class="fonte" href="https://www.10cose.it/venezia/piazza-san-marco-venezia">
 https://www.10cose.it/venezia/piazza-san-marco-venezia</a>
 <p class="testo">E’ il luogo simbolo di Venezia ed è una tappa imprescindibile. <br>

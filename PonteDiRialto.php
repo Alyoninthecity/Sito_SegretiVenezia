@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">PONTE DI RIALTO</h1>
-<img class="img" src="assets/img/Ponte_di_Rialto.jpg" alt="Ponte Di Rialto">
+<img class="img" src="./assets/img/Ponte_di_Rialto.jpg" alt="Ponte Di Rialto">
 <a class="fonte" href="https://italoamericano.org/story/2017-11-2/Venezia-PonteRialto">
 Tratto da: https://italoamericano.org/story/2017-11-2/Venezia-PonteRialto</a>
 <p class="testo">Simbolo celeberrimo di Venezia, fino all’Ottocento costituiva

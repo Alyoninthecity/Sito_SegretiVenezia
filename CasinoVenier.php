@@ -1,6 +1,6 @@
 <?php include_once("header.php") ?>
 <h1 class="titolo">CASINO VENIER</h1>
-<img class="img" src="assets/img/Casino_Venier.jpg" alt="Casino Venier">
+<img class="img" src="./assets/img/Casino_Venier.jpg" alt="Casino Venier">
 <a class="fonte" href="https://www.venetosecrets.com/arte-stile/casino-venier-divertimento-segreto-del-700-veneziano/">
 Tratto da: https://www.venetosecrets.com/arte-stile/casino-venier-divertimento-segreto-del-700-veneziano/</a>
 <p class="testo">Il Casino Venier a Venezia si trova tra il ponte di Rialto e Piazza San Marco nelle Mercerie.<br>

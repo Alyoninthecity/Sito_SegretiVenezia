@@ -11,6 +11,7 @@ if (isset($_POST["nickname"])) {
 }
 ?>
 <h2>Sezione Commenti</h2>
+<p>Se ti va, lascia un commento</p>
 <form action="#" method="post">
   <label for="nickname">Username </label><input type="text" name="nickname" placeholder="Username...">
   <label for="commento">Commento </label><input type="text" name="commento" placeholder="Inserisci il tuo commento">
