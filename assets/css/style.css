@@ -258,3 +258,21 @@ h6 {
 .istruzioni {
 	margin: 2em 0px;
 }
+
+.sottotitolo {
+	color: rgb(27, 120, 173);
+	text-align: left;
+	padding: 14px 20px;
+	text-decoration: none;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 100%;
+}
+
+p {
+	color: rgb(58, 58, 58);
+	text-align: left;
+	padding: 14px 0;
+	text-decoration: none;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 100%;
+}
